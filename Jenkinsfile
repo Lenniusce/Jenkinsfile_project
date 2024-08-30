@@ -5,7 +5,7 @@ pipeline{
     tools{
         // here mymaven is tool configured under global tool configuration
         // new tools added
-        maven 'mymaven'
+        maven 'Maven 3.23'
     }
     
     stages{
